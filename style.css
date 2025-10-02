@@ -10,7 +10,7 @@ body {
 }
 
 header {
-    background-color: #c323e3;
+    background-color: #d8b4ff; /* lilás claro */
     color: white;
     text-align: center;
     padding: 2.5rem 0;
@@ -35,12 +35,12 @@ main {
 
 section {
     margin-bottom: 30px;
-    border-left: 5px solid #df4ae2;
+    border-left: 5px solid #d8b4ff; /* lilás claro */
     padding-left: 20px;
 }
 
 section h2 {
-    color: #d651e8;
+    color: #caa0ff; /* lilás claro */
     margin-top: 0;
     border-bottom: 2px solid #e0e0e0;
     padding-bottom: 10px;
@@ -55,7 +55,7 @@ img {
     max-width: 250px;
     height: auto;
     border-radius: 50%;
-    border: 5px solid #b00cdd;
+    border: 5px solid #caa0ff; /* lilás claro */
     display: block;
     margin: 20px 0;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
@@ -70,7 +70,7 @@ li {
 }
 
 a {
-    color: #be25d2;
+    color: #d8b4ff; /* lilás claro */
     text-decoration: none;
     font-weight: 600;
 }
